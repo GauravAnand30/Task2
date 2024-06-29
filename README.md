@@ -19,6 +19,13 @@ Task Status:
 
 ## Screenshots
 
+![Home Page](https://github.com/GauravAnand30/Task2/blob/main/Screenshots/Screenshot%202024-06-29%20104155.png)
+*Home Page of Todo*
+
+![Menu Page](https://github.com/GauravAnand30/Task2/blob/main/Screenshots/Screenshot%202024-06-29%20103942.png)
+*Add and Delete Task*
+
+
 
 
 
