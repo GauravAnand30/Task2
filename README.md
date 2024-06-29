@@ -19,8 +19,8 @@ Task Status:
 
 ## Screenshots
 
-![Home Page](https://drive.google.com/file/d/1aNR8-aGkrsRajkZ2nUaeFSzC-Y6wpsqb/view?usp=sharing)
-![ ](https://drive.google.com/file/d/1N03UPd7C_2kWAjQouG-apgabaGNhMB3m/view?usp=sharing)
+
+
 
 
 
